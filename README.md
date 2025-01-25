@@ -27,7 +27,7 @@ Continue reading [here](https://docs.0g.ai/intro) if you want to learn more abou
 
 
 ## Support and Additional Resources
-We want to do everything we can to help you be successful while working on your contribution and projects. Here you'll find various resources and communities that may help you complete a project or contribute to 0G. 
+We want to do everything we can to help you be successful while working on your contributions and projects. Here you'll find various resources and communities that may help you complete a project or contribute to 0G. 
 
 
 ### Communities
