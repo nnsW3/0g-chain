@@ -4,7 +4,7 @@
 
 ## Enabling Kava Metric Telemetry
 
-To enable the kava app to emit telemetry during operation, update the relevant config values to enable metrics:
+To enable the Kava app to emit telemetry during operation, update the relevant config values to enable metrics:
 
 `config.toml`
 
@@ -65,7 +65,7 @@ Update [prometheus config](../prometheus.yml) to collect metrics from your local
 
 ### Collecting from remote host
 
-Update the kava config on the host and restart using the instructions from `Enabling Kava Metric Emission`
+Update the Kava config on the host and restart using the instructions from `Enabling Kava Metric Emission`
 
 Install [ngrok](https://ngrok.com/download) on the remote host
 
